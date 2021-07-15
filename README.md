@@ -42,3 +42,7 @@ this is my fight  asfgdasgdasfhdafgiuadujgfiopasjgioajgjasgjasoijgi
  ~~this is the first footnote[^1]~~
  sdfsf  
  [^1]: niubi
+
+emoji:+1:  
+auto link: www.baidu.com  
+`www.baidu.com`
