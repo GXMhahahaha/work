@@ -13,6 +13,6 @@ this is my fight  asfgdasgdasfhdafgiuadujgfiopasjgioajgjasgjasoijgi
 ## linking test
 [click me](https://www.baidu.com)
 ## redirect
-[click me](/test/link.md)
+[click me](../test/link.md)
 
 [1](https://google.com)
